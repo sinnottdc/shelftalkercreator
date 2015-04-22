@@ -1,0 +1,46 @@
+#login-form {
+    width: 30%;
+    margin-right:auto; 
+    margin-left:auto;
+}
+
+#header{
+    width: 51%;
+    font-size: 7em;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+
+div.input-group {
+width: 100%;
+}
+
+.thumbnail>img {
+    max-height: 100%;
+}
+
+#artist_biog_pic{
+    margin-top: 9%;
+    margin-bottom: 5%;
+}
+
+#logout.btn {
+margin-top: 8px;
+/* float: right; */
+/* margin-left: 885px; */
+}
+
+#loginheader .jumbotron .h1, .jumbotron h1 {
+color: inherit;
+text-align: center;
+}
+
+#welcomeUser{
+float: left;
+color: #9d9d9d;
+float: right;
+margin-top: 9px;
+
+}
